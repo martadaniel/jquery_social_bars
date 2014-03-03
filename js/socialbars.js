@@ -34,11 +34,13 @@ $(document).ready(function() {
 		
 	$("#socialside").append('<ul class="mainul"></ul>');
 	
+	/// generating bars
 	for(var i=0;i<social.length;i++){
 	$(".mainul").append("<li>" + '<ul class="scli" style="background-color:' + social[i][2] + '">' +
 						'<li>' + social[i][0] + '<img src="' + social[i][3] + '"/></li></ul></li>');
 	 				}
 	
+	/// bar click event
 	$(".scli").click(function(){
 		var link = $(this).text();		
 		for(var i=0;i<social.length;i++){
@@ -48,6 +50,7 @@ $(document).ready(function() {
 		}		
 	});
 	
+	/// mouse hover event
 	$(".scli").mouseenter(function() {	
 		$(this).stop(true);	
 		$(this).clearQueue();
@@ -57,6 +60,7 @@ $(document).ready(function() {
 				
 	});
 
+	/// mouse out event
 	$(".scli").mouseleave(function(){
 		$(this).animate({
 			left:"0px"
