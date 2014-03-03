@@ -21,6 +21,6 @@ Installation:
         The optimal bar logo size is 30px * 30px.
         
 Icons:
-  Social icons by Desing Deck (http://www.designdeck.co.uk/a/1252) is included.
+  Social icons by Desing Deck (http://www.designdeck.co.uk/a/1252) is already included.
         
         
