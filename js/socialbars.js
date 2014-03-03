@@ -48,10 +48,13 @@ $(document).ready(function() {
 		}		
 	});
 	
-	$(".scli").mouseenter(function() {
-		$(this).animate({
-			left : "140px"
-		}, 300);
+	$(".scli").mouseenter(function() {	
+		$(this).stop(true);	
+		$(this).clearQueue();
+			$(this).animate({
+				left : "140px"
+			}, 300);
+				
 	});
 
 	$(".scli").mouseleave(function(){
