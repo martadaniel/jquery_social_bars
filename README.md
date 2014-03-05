@@ -17,6 +17,10 @@ This simple script is useable for creating social bars on your site's left side.
 ```
  <link rel="stylesheet" type="text/css" href="css/social.css" />
 ```
+>*Note:*
+>If you want the social bars scrolling with your page, set position under "#socialside" to *absolute*,
+>on the other hand, if you want them on a fix position, leave it on *fixed*.
+>You can adjust its' vertical position, with changing value of *top*.
 
  - include jQuery files into your header too.
      **(Important! Include files in this ordering!)**
