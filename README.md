@@ -1,8 +1,8 @@
 jQuery Social Sidebars
 =============
-
-Animated social sidebars with jQuery.
-This simple script is useable for creating social bars on your site's left side.
+[Live Demo](http://85.25.209.33/~martadan/gitdemos/socialbars/demo.html)   
+Animated social sidebars with jQuery.   
+This simple script is useable for creating social bars on your site.
 
 ####Installation:
 
@@ -18,9 +18,9 @@ This simple script is useable for creating social bars on your site's left side.
  <link rel="stylesheet" type="text/css" href="css/social.css" />
 ```
 >*Note:*
->If you want the social bars scrolling with your page, set position under "#socialside" to *absolute*,
->on the other hand, if you want them on a fix position, leave it on *fixed*.
->You can adjust its' vertical position, with changing value of *top*.
+>If you want the social bars scrolling with your page, set position under "#socialside" to ***absolute***,
+>on the other hand, if you want them on a fix position, leave it on ***fixed***.
+>You can adjust its' vertical position, with changing value of ***top***.
 
  - include jQuery files into your header too.
      **(Important! Include files in this ordering!)**
@@ -37,7 +37,7 @@ This simple script is useable for creating social bars on your site's left side.
 
  - edit socialbars.js:
         
->After "var social=..." line every brackets represents ONE social bar.
+>After "var social=..." line every brackets represents ONE social bar.   
 Just fill the brackets with some data and let the magic happen!
         
 Here is a sample how to fill the brackets:
