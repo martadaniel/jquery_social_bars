@@ -20,7 +20,7 @@ This simple script is useable for creating social bars on your site.
 >*Note:*
 >If you want the social bars scrolling with your page, set position under "#socialside" to ***absolute***,
 >on the other hand, if you want them on a fix position, leave it on ***fixed***.
->You can adjust its' vertical position, with changing value of ***top***.
+>You can adjust its' vertical position, with changing the value of ***top***.
 
  - include jQuery files into your header too.
      **(Important! Include files in this ordering!)**
@@ -46,8 +46,8 @@ Here is a sample how to fill the brackets:
 ["Bar label", "link to your profile", "bar background color", "bar logo"]
 ```
         
-*The optimal bar logo size is 30px * 30px.*
+*The optimal size of bar logo is 30px * 30px.*
         
 ####Icons:
-Social icons by Desing Deck (http://www.designdeck.co.uk/a/1252) is already included.
+Social icons by Desing Deck (http://www.designdeck.co.uk/a/1252) is also included.
         
