@@ -49,5 +49,5 @@ Here is a sample how to fill the brackets:
 *The optimal size of bar logo is 30px * 30px.*
         
 ####Icons:
-Social icons by Desing Deck (http://www.designdeck.co.uk/a/1252) is also included.
+Social icons by Desing Deck (http://www.designdeck.co.uk/a/1252) are also included.
         
