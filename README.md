@@ -1,6 +1,6 @@
 jQuery Social Sidebars
 =============
-[Live Demo](http://85.25.209.33/~martadan/gitdemos/socialbars/demo.html)   
+[Live Demo](http://marta-daniel.hu/gitdemos/socialbars/demo.html)   
 Animated social sidebars with jQuery.   
 This simple script is useable for creating social bars on your site.
 
