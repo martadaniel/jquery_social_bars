@@ -23,7 +23,7 @@ This simple script is useable for creating social bars on your site.
 >You can adjust its' vertical position, with changing the value of ***top***.
 
  - include jQuery files into your header too.
-     **(Important! Include files in this ordering!)**
+     **(Important! Include files in this sequence!)**
 
 ``` 
 <script src="js/jquery-2.1.0.min.js" type="text/javascript"></script>
