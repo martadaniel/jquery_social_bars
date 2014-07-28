@@ -51,5 +51,3 @@ Here is a sample how to fill the brackets:
 ####Icons:
 Social icons by Desing Deck (http://www.designdeck.co.uk/a/1252) are also included.
 
-(Test row...)
-        
